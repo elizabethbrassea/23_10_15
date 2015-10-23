@@ -48,7 +48,14 @@ Now you can save the data and manage them. Yo can also make a background and do 
 
 >Example of results:
 ![Picture](10.png)
-#MORE EXAMPLES: DNA Replication
+
+![Picture](18.png)
+>% is related to the number of genes involved in given term is divided by the total number of user's input genes
+
+#NOTE: For more explanation about the mean of the results that DAVID gives see: [http://www.nature.com/nprot/journal/v4/n1/fig_tab/nprot.2008.211_T2.html](http://www.nature.com/nprot/journal/v4/n1/fig_tab/nprot.2008.211_T2.html)
+
+
+#MORE EXAMPLES OF RESULTS: DNA Replication
 ![Picture](13.png)
 
 #MORE EXAMPLES: Pyrimidine metabolism
