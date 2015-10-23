@@ -1,0 +1,17 @@
+Row Labels,Count of GeoF_ID,Count of GeoM_ID,Count of ContigID
+cell adhesion,145,145,190
+cell cycle and proliferation,1346,1346,1502
+cell organization and biogenesis,2192,2192,2532
+cell-cell signaling,106,106,143
+death,478,478,547
+developmental processes,2121,2121,2739
+DNA metabolism,909,909,1071
+other biological processes,2962,2962,3543
+other metabolic processes,3687,3687,4742
+protein metabolism,2196,2196,2572
+RNA metabolism,2608,2608,2932
+signal transduction,1250,1250,1488
+stress response,1219,1219,1454
+transport,2081,2081,2525
+(blank),,,
+Grand Total,23300,23300,27980
